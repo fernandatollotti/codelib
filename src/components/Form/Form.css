@@ -1,0 +1,12 @@
+.contact {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form {
+  background-color: #FFFFFF;
+  border-radius: 1.5rem;
+  padding: 3.125rem 1.625rem;
+}

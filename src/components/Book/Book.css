@@ -1,0 +1,33 @@
+.book_item {
+  width: 18%;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.book_item img {
+  width: 212px;
+  height: 300px;
+}
+
+.book_item h3 {
+  font-size: 1.25rem;
+  height: 3.5rem;
+}
+
+.book_item p {font-size: 0.875rem;}
+
+/* #media querie */
+@media (max-width: 992px) {
+  .book_item {width: 31%;}
+
+  .book_item h3 {height: 1.5rem;}
+}
+
+@media (max-width: 768px) {
+  .book_item {
+    width: 100%; 
+    align-items: center;
+  }
+}
+
