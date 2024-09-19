@@ -5,7 +5,7 @@ Este projeto tem como objetivo criar um aplicativo web simples que permite a vis
 
 ## Demonstração
 Experimente a aplicação agora mesmo:
-https://codelib-beta.vercel.app/
+https://codelib-alpha.vercel.app/
 
 ## Tecnologias Utilizadas
 * **React:** Biblioteca JavaScript para construção de interfaces de usuário.
@@ -24,7 +24,7 @@ https://codelib-beta.vercel.app/
 
 2. **Instalar as dependências:**
    ```bash
-   cd CodeLib
+   cd codelib
    npm install
 
 3. **Iniciar o aplicativo:**
